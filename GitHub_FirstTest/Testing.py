@@ -6,6 +6,3 @@ def sum(x:int, y:int):
 
 num:int = sum (12, 30) 
 print(num)
-
-
-print("please let me go VS Code ;-;")
